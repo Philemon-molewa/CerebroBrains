@@ -1,0 +1,16 @@
+Recipe Reader it is an AI virtual machine that reads recipes to the user based on the user specifications
+and the type of the meal they want to prepare.
+This machine can be used for personal use or in the hospitality industries.
+
+*Benefits of Recipe Reader*
+saves time - sometimes as a chef or a cook you do not have enough time to go through cookbooks or websites for recipes and
+             and ingredients.
+personalization - the AI can suggest recipes based on the users dietary preferences, allergies, and ingredients.
+the can introduce users to new meals that they have not tried before.
+meal planning - generate meal plans for the week including grocery lists and nutritional information.
+
+*Some of the AI features*
+suggestion of alternative ingredients 
+step-by-step instructions, clear easy to follow cooking instructions
+user feedback, by rating and reviewing recipes helping the AI improve its suggestions
+
